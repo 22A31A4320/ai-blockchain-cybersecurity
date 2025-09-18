@@ -75,16 +75,8 @@ pip install -r requirements.txt
 # Run server
 python app.py
 ```
-
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
----
-
-## 🔗 Links
-
-* 🎨 [Figma Design](https://zipper-quirky-25109363.figma.site)
-* 📂 GitHub Repo *(this repo)*
